@@ -1,4 +1,4 @@
-# Rabbit-color-animation
+### Rabbit-color-animation
 <br />
 
 # author   :    Hasmik Minasyan 
